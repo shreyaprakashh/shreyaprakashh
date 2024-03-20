@@ -12,11 +12,8 @@ Here are some of the projects I've worked on:
 
 ### Data Science Projects
 - **Customer Churn Prediction**
-  - Developed a machine learning model to predict customer churn, achieving 85% accuracy and enabling targeted retention strategies.
-  - [Link to Project Repository](Link)
-- **Sentiment Analysis on Twitter Data**
-  - Conducted sentiment analysis on Twitter data using natural language processing techniques to analyze public opinion on a specific topic.
-  - [Link to Project Repository](Link)
+  - Developed a data science project utilizing NLP and machine learning to analyze emotional tones in IMDB movie reviews, offering insights into audience sentiments and preferences.
+  - [Link to Project Repository](https://github.com/shreyaprakashh/FilmVibeVision)
 
 ### Web Development Projects
 - **Portfolio Website**
@@ -40,11 +37,11 @@ Feel free to connect with me on:
 
 - [LinkedIn] https://www.linkedin.com/in/shreyaprakashh/
 
-You can also reach out to me via email at shreyaprakash11@gmail.com.
+You can also reach out to me via email at shreyaprakash305@gmail.com.
 
 ## ⚡ Fun Fact
 
-I love exploring new hiking trails and capturing breathtaking landscapes with my camera! 📷
+I love exploring capturing breathtaking landscapes with my camera! 📷
 
 ## 🚀 My GitHub Stats
 
