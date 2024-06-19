@@ -10,7 +10,10 @@ I'm enthusiastic about leveraging data-driven insights and web technologies to c
 
 Here are some of the projects I've worked on:
 
-### Data Science Projects
+### Machine Learning Projects
+- **Sign Language Recognizer**
+  - Developed a machine project utilizing NLP and machine learning to analyze emotional tones in IMDB movie reviews, offering insights into audience sentiments and preferences.
+  - [Link to Project Repository](https://github.com/shreyaprakashh/FilmVibeVision)
 - **FilmVibeVision**
   - Developed a data science project utilizing NLP and machine learning to analyze emotional tones in IMDB movie reviews, offering insights into audience sentiments and preferences.
   - [Link to Project Repository](https://github.com/shreyaprakashh/FilmVibeVision)
@@ -28,7 +31,7 @@ Here are some of the projects I've worked on:
 I'm currently focused on enhancing my skills in:
 
 - Machine learning algorithms and techniques
-- Front-end frameworks such as React.js
+- Data Analytics and Data Engineering Tools
 
 
 ## 📫 Let's Connect
