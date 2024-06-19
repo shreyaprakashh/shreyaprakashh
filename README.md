@@ -14,9 +14,9 @@ Here are some of the projects I've worked on:
 - **Sign Language Recognizer**
   - This project translate Indian sign language alphabets into text using Long Short-Term Memory (LSTM) networks. The system collects data in the form of images for each alphabet using OpenCV, preprocesses the images, trains an LSTM model, and then recognizes sign language gestures in real-time.
   - [Link to Project Repository](https://github.com/shreyaprakashh/Sign-Language-Recognizer)
-- **FilmVibeVision**
-  - Developed a data science project utilizing NLP and machine learning to analyze emotional tones in IMDB movie reviews, offering insights into audience sentiments and preferences.
-  - [Link to Project Repository](https://github.com/shreyaprakashh/FilmVibeVision)
+- **Stock Price Prediction**
+  - This project develops an application for predicting stock prices using Long Short-Term Memory (LSTM) networks. Built with Streamlit, the app provides an intuitive interface where users can select a stock, view historical data, and generate future price predictions.
+  - [Link to Project Repository](https://github.com/shreyaprakashh/Stock_Price_Prediction)
 
 ### Web Development Projects
 - **Portfolio Website**
