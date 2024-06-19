@@ -12,8 +12,8 @@ Here are some of the projects I've worked on:
 
 ### Machine Learning Projects
 - **Sign Language Recognizer**
-  - Developed a machine project utilizing NLP and machine learning to analyze emotional tones in IMDB movie reviews, offering insights into audience sentiments and preferences.
-  - [Link to Project Repository](https://github.com/shreyaprakashh/FilmVibeVision)
+  - This project translate Indian sign language alphabets into text using Long Short-Term Memory (LSTM) networks. The system collects data in the form of images for each alphabet using OpenCV, preprocesses the images, trains an LSTM model, and then recognizes sign language gestures in real-time.
+  - [Link to Project Repository](https://github.com/shreyaprakashh/Sign-Language-Recognizer)
 - **FilmVibeVision**
   - Developed a data science project utilizing NLP and machine learning to analyze emotional tones in IMDB movie reviews, offering insights into audience sentiments and preferences.
   - [Link to Project Repository](https://github.com/shreyaprakashh/FilmVibeVision)
@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
   - [Link to Project Repository](Link)
 - **E-commerce Website**
   - Contributed to the development of an e-commerce platform, implementing front-end features and optimizing user experience.
-  - [Link to Project Repository](Link)
+  - [Link to Project Repository](https://github.com/shreyaprakashh/RestaurantWebsite)
 
 ## 🌱 I'm Currently Learning
 
