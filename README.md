@@ -26,10 +26,10 @@ Welcome to my GitHub! I'm a final year CSE AIML student.
 A Python-based virtual assistant capable of performing tasks through voice commands. It utilizes libraries for speech recognition, text-to-speech conversion, and automates tasks like WhatsApp messaging and YouTube control.
 
 **Tech Stack:**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![SpeechRecognition](https://img.shields.io/badge/-SpeechRecognition-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![pyttsx3](https://img.shields.io/badge/-pyttsx3-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![pywhatkit](https://img.shields.io/badge/-pywhatkit-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/PyPI_logo.svg/1200px-PyPI_logo.svg.png" alt="PyPI" height="60"/>
+</p>
 
 - [Repository Link](https://github.com/shreyaprakashh/JARVIS)
 
@@ -37,10 +37,12 @@ A Python-based virtual assistant capable of performing tasks through voice comma
 An innovative project that interprets sign language using computer vision and machine learning techniques in Python.
 
 **Tech Stack:**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-- ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" height="60"/>
+</p>
 
 - [Repository Link](https://github.com/shreyaprakashh/Sign-Language-Recognizer)
 
