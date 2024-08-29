@@ -16,6 +16,8 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="60"/>
@@ -53,7 +55,7 @@ A Python-based virtual assistant capable of performing tasks through voice comma
 
 **Tech Stack:**
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pypi/pypi-original.svg" alt="PyPI" height="60"/>
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" height="60"/>
 
 - [Repository Link](https://github.com/shreyaprakashh/JARVIS)
 
