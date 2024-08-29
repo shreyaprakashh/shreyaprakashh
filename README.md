@@ -81,7 +81,7 @@ A Python-based virtual assistant capable of performing tasks through voice comma
 
 ## ⚡ Fun Fact
 
-I'm a big fan of sci-fi movies and love exploring the intersection of technology and storytelling. When I'm not coding, you can find me reading up on the latest advancements in AI or or creating intricate henna designs.
+I'm a big fan of sci-fi movies and love exploring the intersection of technology and storytelling. When I'm not coding, you can find me creating intricate henna designs.
 
 ---
 
