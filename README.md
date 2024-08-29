@@ -8,13 +8,15 @@ Welcome to my GitHub! I'm a final year CSE AIML student.
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="60"/>
+</p>
 
 ---
 
