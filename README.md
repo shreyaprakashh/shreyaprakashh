@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Shreya Prakash]
+# Hi there! 👋 I'm Shreya Prakash
 
 ### 🚀 Final Year Computer Science Student | Aspiring Software Engineer | 2025 Passout
 
@@ -9,6 +9,7 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
 ## 🔧 Technologies & Tools
 
 <p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="60"/>
@@ -16,6 +17,10 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
+
+
 </p>
 ---
 
