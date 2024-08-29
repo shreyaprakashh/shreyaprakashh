@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
 
 ## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -54,8 +54,8 @@ An innovative project that interprets sign language using computer vision and ma
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shreyaprakashh/)
-- **Email:** [your.email@example.com](shreyaprakash305@gmail.com)
+- **LinkedIn:** [shreyaprakashh](https://www.linkedin.com/in/shreyaprakashh/)
+- **Email:** [shreyaprakash305@gmail.com]
 - **Portfolio:** [Portfolio Website](#)
 
 ---
