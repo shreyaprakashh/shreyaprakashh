@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Shreya Prakash
 
-### 🚀 Final Year Computer Science Student | Aspiring Software Engineer | 2025 Passout
+### 🚀 Final Year Computer Science Student | 2025 Passout
 
-Welcome to my GitHub! I'm a passionate software developer with a keen interest in building innovative solutions to real-world problems. I love experimenting with new technologies, contributing to open-source projects, and continually honing my skills.
+Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest in data analysis and Machine Learning. I have a solid foundation in front-end development and love creating user-friendly interfaces that enhance the overall user experience.
 
 ---
 
@@ -26,16 +26,7 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
 
 ## 💻 Projects
 
-### 1. Stock Price Prediction
-A web application built using Streamlit that predicts stock prices based on historical data using machine learning models. It provides interactive visualizations and user-friendly interfaces for predicting future stock trends.
-
-**Tech Stack:**
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
-
-- [Repository Link](#)
-
-### 2. Sign Language Recognizer
+### 1. Sign Language Recognizer
 An innovative project that interprets sign language using computer vision and machine learning techniques in Python.
 
 **Tech Stack:**
@@ -43,7 +34,18 @@ An innovative project that interprets sign language using computer vision and ma
 <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
 
-- [Repository Link](#)
+- [Repository Link](https://github.com/shreyaprakashh/Sign-Language-Recognizer)
+
+
+### 2. Stock Price Prediction
+A web application built using Streamlit that predicts stock prices based on historical data using machine learning models. It provides interactive visualizations and user-friendly interfaces for predicting future stock trends.
+
+**Tech Stack:**
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
+
+- [Repository Link](https://github.com/shreyaprakashh/Stock_Price_Prediction)
+
 
 ### 3. J.A.R.V.I.S (Just A Rather Very Intelligent System)
 A Python-based virtual assistant capable of performing tasks through voice commands. It utilizes libraries for speech recognition, text-to-speech conversion, and automates tasks like WhatsApp messaging and YouTube control.
@@ -52,7 +54,7 @@ A Python-based virtual assistant capable of performing tasks through voice comma
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pypi/pypi-original.svg" alt="PyPI" height="60"/>
 
-- [Repository Link](#)
+- [Repository Link](https://github.com/shreyaprakashh/JARVIS)
 
 
 
@@ -68,9 +70,9 @@ A Python-based virtual assistant capable of performing tasks through voice comma
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio:** [Your Portfolio Website](#)
+- **LinkedIn:** [shreyaprakashh](https://www.linkedin.com/in/shreyaprakashh/)
+- **Email:** [shreyaprakash305@gmail.com](mailto:your.email@example.com)
+- **Portfolio:** [Portfolio Website](#)
 
 ---
 
