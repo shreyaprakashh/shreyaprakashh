@@ -1,53 +1,69 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Shreya Prakash
 
-Welcome to my GitHub profile! I'm Shreya Prakash, a Computer Science & Engineering (Artificial Intelligence & Machine Learning) undergraduate seeking opportunities to contribute to innovative projects and continue developing technical expertise.
+### 🚀 Final Year Computer Science Student | Aspiring Software Engineer | 2025 Passout
 
-## About Me
+Welcome to my GitHub! I'm a passionate software developer with a keen interest in building innovative solutions to real-world problems. I love experimenting with new technologies, contributing to open-source projects, and continually honing my skills.
 
-I'm enthusiastic about leveraging data-driven insights and web technologies to create meaningful solutions. With a background in BTech CSE AIML and hands-on experience in both data science and web development, I enjoy exploring the intersection of these two domains to build innovative applications.
+---
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+---
 
 ## 💻 Projects
 
-Here are some of the projects I've worked on:
+### 1. J.A.R.V.I.S (Just A Rather Very Intelligent System)
+A Python-based virtual assistant capable of performing tasks through voice commands. It utilizes libraries for speech recognition, text-to-speech conversion, and automates tasks like WhatsApp messaging and YouTube control.
 
-### Machine Learning Projects
-- **Sign Language Recognizer**
-  - This project translate Indian sign language alphabets into text using Long Short-Term Memory (LSTM) networks. The system collects data in the form of images for each alphabet using OpenCV, preprocesses the images, trains an LSTM model, and then recognizes sign language gestures in real-time.
-  - [Link to Project Repository](https://github.com/shreyaprakashh/Sign-Language-Recognizer)
-- **Stock Price Prediction**
-  - This project develops an application for predicting stock prices using Long Short-Term Memory (LSTM) networks. Built with Streamlit, the app provides an intuitive interface where users can select a stock, view historical data, and generate future price predictions.
-  - [Link to Project Repository](https://github.com/shreyaprakashh/Stock_Price_Prediction)
+**Tech Stack:**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![SpeechRecognition](https://img.shields.io/badge/-SpeechRecognition-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![pyttsx3](https://img.shields.io/badge/-pyttsx3-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![pywhatkit](https://img.shields.io/badge/-pywhatkit-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Web Development Projects
-- **Portfolio Website**
-  - Designed and developed a responsive portfolio website to showcase my projects and skills using HTML, CSS, and JavaScript.
-  - [Link to Project Repository](Link)
-- **E-commerce Website**
-  - Contributed to the development of an e-commerce platform, implementing front-end features and optimizing user experience.
-  - [Link to Project Repository](https://github.com/shreyaprakashh/RestaurantWebsite)
+- [Repository Link](https://github.com/shreyaprakashh/JARVIS)
 
-## 🌱 I'm Currently Learning
+### 2. Sign Language Recognizer
+An innovative project that interprets sign language using computer vision and machine learning techniques in Python.
 
-I'm currently focused on enhancing my skills in:
+**Tech Stack:**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-- Machine learning algorithms and techniques
-- Data Analytics and Data Engineering Tools
+- [Repository Link](https://github.com/shreyaprakashh/Sign-Language-Recognizer)
 
+---
 
-## 📫 Let's Connect
+## 🌱 What I’m Currently Learning
 
-Feel free to connect with me on:
+- Advanced Machine Learning Algorithms
+- Full-Stack Development (React, Node.js)
+- Cloud Computing (AWS, Azure)
 
-- [LinkedIn] https://www.linkedin.com/in/shreyaprakashh/
+---
 
-You can also reach out to me via email at shreyaprakash305@gmail.com.
+## 📫 How to Reach Me
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shreyaprakashh/)
+- **Email:** [your.email@example.com](shreyaprakash305@gmail.com)
+- **Portfolio:** [Portfolio Website](#)
+
+---
 
 ## ⚡ Fun Fact
 
-I love exploring capturing breathtaking landscapes with my camera! 📷
+I'm a big fan of sci-fi movies and love exploring the intersection of technology and storytelling. When I'm not coding, you can find me reading up on the latest advancements in AI or tinkering with new gadgets.
 
-## 🚀 My GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaprakashh&show_icons=true&theme=radical)
-
-Thanks for visiting my profile! Let's connect and collaborate on exciting projects together! 😊
+Thanks for stopping by! Feel free to explore my repositories and connect with me.
