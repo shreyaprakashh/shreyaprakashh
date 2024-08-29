@@ -2,7 +2,7 @@
 
 ### 🚀 Final Year Computer Science Student | Aspiring Software Engineer | 2025 Passout
 
-Welcome to my GitHub! I'm a passionate software developer with a keen interest in building innovative solutions to real-world problems. I love experimenting with new technologies, contributing to open-source projects, and continually honing my skills.
+Welcome to my GitHub! I'm a final year CSE AIML student.
 
 ---
 
