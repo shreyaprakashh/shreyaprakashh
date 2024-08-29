@@ -19,9 +19,9 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
-
-
 </p>
+
+
 ---
 
 ## 💻 Projects
@@ -54,15 +54,7 @@ A Python-based virtual assistant capable of performing tasks through voice comma
 
 - [Repository Link](#)
 
-### 2. Sign Language Recognizer
-An innovative project that interprets sign language using computer vision and machine learning techniques in Python.
 
-**Tech Stack:**
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
-
-- [Repository Link](#)
 
 ---
 
