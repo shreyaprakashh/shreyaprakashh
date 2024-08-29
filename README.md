@@ -26,7 +26,26 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
 
 ## 💻 Projects
 
-### 1. J.A.R.V.I.S (Just A Rather Very Intelligent System)
+### 1. Stock Price Prediction
+A web application built using Streamlit that predicts stock prices based on historical data using machine learning models. It provides interactive visualizations and user-friendly interfaces for predicting future stock trends.
+
+**Tech Stack:**
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
+
+- [Repository Link](#)
+
+### 2. Sign Language Recognizer
+An innovative project that interprets sign language using computer vision and machine learning techniques in Python.
+
+**Tech Stack:**
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+<img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
+
+- [Repository Link](#)
+
+### 3. J.A.R.V.I.S (Just A Rather Very Intelligent System)
 A Python-based virtual assistant capable of performing tasks through voice commands. It utilizes libraries for speech recognition, text-to-speech conversion, and automates tasks like WhatsApp messaging and YouTube control.
 
 **Tech Stack:**
@@ -42,7 +61,6 @@ An innovative project that interprets sign language using computer vision and ma
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
 <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Keras_logo.svg" alt="Keras" height="60"/>
 
 - [Repository Link](#)
 
