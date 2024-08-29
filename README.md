@@ -8,14 +8,15 @@ Welcome to my GitHub! I'm a passionate software developer with a keen interest i
 
 ## 🔧 Technologies & Tools
 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="60"/>
-
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="60"/>
+</p>
 ---
 
 ## 💻 Projects
