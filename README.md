@@ -24,6 +24,7 @@ Welcome to my GitHub! I'm a final year CSE AIML student.
 A Python-based virtual assistant capable of performing tasks through voice commands. It utilizes libraries for speech recognition, text-to-speech conversion, and automates tasks like WhatsApp messaging and YouTube control.
 
 **Tech Stack:**
+
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pypi/pypi-original.svg" alt="PyPI" height="60"/>
 - [Repository Link](https://github.com/shreyaprakashh/JARVIS)
