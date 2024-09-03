@@ -29,6 +29,15 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 
 ---
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyaprakashh&theme=highcontrast)](https://git.io/streak-stats)
+
+---
+
+
+
+
 ## 💻 Machine Learning Projects
 
 ### 1. Sign Language Recognizer
@@ -64,13 +73,6 @@ A Python-based virtual assistant capable of performing tasks through voice comma
 
 
 ---
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyaprakashh&theme=highcontrast)](https://git.io/streak-stats)
-
----
-
 
 
 ## 🌱 What I’m Currently Learning
