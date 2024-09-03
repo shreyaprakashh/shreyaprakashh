@@ -31,7 +31,11 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyaprakashh&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
