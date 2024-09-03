@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyaprakashh&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
