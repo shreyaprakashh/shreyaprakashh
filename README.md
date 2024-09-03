@@ -6,6 +6,15 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 
 ---
 
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=highcontrast)](https://git.io/streak-stats)
+
+---
+
+
+
 ## 🔧 Technologies & Tools
 
 <p align="center">
