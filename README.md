@@ -45,39 +45,15 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 ## 💻 Machine Learning Projects
 
 ### 1. Sign Language Recognizer
-
-**Tech Stack:**
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
-
 - [Repository Link](https://github.com/shreyaprakashh/Sign-Language-Recognizer)
 
-
 ### 2. Stock Price Prediction
-
-**Tech Stack:**
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
-
 - [Repository Link](https://github.com/shreyaprakashh/Stock_Price_Prediction)
 
-
 ### 3. GestureWave
-**Tech Stack:**
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/MediaPipe_Logo.svg" alt="MediaPipe" height="60"/>
-<img src="https://pyautogui.readthedocs.io/en/latest/_images/square-logo.png" alt="PyAutoGUI" height="60"/>
-
 - [Repository Link]()
 
-
 ### 4. J.A.R.V.I.S
-
-**Tech Stack:**
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" height="60"/>
-
 - [Repository Link](https://github.com/shreyaprakashh/JARVIS)
 
 
