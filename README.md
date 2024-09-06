@@ -13,17 +13,19 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+  <img src="https://github.com/google/mediapipe/raw/master/docs/images/MediapipeIcon.png" alt="MediaPipe" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
+  <img src="https://seeklogo.com/images/P/pyautogui-logo-60E0A3D0B3-seeklogo.com.png" alt="PyAutoGUI" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" height="60"/>
 </p>
 
 
