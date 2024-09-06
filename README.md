@@ -88,7 +88,7 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 
 - **LinkedIn:** [shreyaprakashh](https://www.linkedin.com/in/shreyaprakashh/)
 - **Email:** [shreyaprakash305@gmail.com](mailto:your.email@example.com)
-[//]- **Portfolio:** [Portfolio Website](#)
+<! **Portfolio:** [Portfolio Website](#) -->
 
 ---
 
