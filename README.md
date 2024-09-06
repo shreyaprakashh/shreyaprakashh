@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
-  <img src="https://mediapipe.dev/images/mediapipe_small.png" alt="MediaPipe" height="60"/>
+  <img src="https://viz.mediapipe.dev/logo.png" alt="MediaPipe" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="60"/>
   <img src="https://raw.githubusercontent.com/asweigart/pyautogui/master/docs/_static/pyautogui_logo.png" alt="PyAutoGUI" height="60"/>
