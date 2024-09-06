@@ -45,17 +45,16 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 
 ## 💻 Machine Learning Projects
 
-### 1. Sign Language Recognizer
+### - Sign Language Recognizer
 - [Repository Link](https://github.com/shreyaprakashh/Sign-Language-Recognizer)
 
-### 2. Stock Price Prediction
+### - Stock Price Prediction
 - [Repository Link](https://github.com/shreyaprakashh/Stock_Price_Prediction)
 
-### 3. GestureWave
-- [Repository Link]()
+### - GestureWave
+- [Repository Link](https://github.com/shreyaprakashh/GestureWave)
 
-### 4. J.A.R.V.I.S
-- [Repository Link](https://github.com/shreyaprakashh/JARVIS)
+### - J.A.R.V.I.S-(https://github.com/shreyaprakashh/JARVIS)
 
 
 
