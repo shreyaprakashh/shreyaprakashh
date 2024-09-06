@@ -63,7 +63,16 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 - [Repository Link](https://github.com/shreyaprakashh/Stock_Price_Prediction)
 
 
-### 3. J.A.R.V.I.S (Just A Rather Very Intelligent System)
+### 3. GestureWave
+**Tech Stack:**
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/MediaPipe_Logo.svg" alt="MediaPipe" height="60"/>
+<img src="https://pyautogui.readthedocs.io/en/latest/_images/square-logo.png" alt="PyAutoGUI" height="60"/>
+
+- [Repository Link]()
+
+
+### 4. J.A.R.V.I.S
 
 **Tech Stack:**
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
