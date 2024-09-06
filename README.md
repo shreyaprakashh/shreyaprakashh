@@ -45,7 +45,6 @@ Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest i
 ## 💻 Machine Learning Projects
 
 ### 1. Sign Language Recognizer
-An innovative project that interprets sign language using computer vision and machine learning techniques in Python.
 
 **Tech Stack:**
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
@@ -56,7 +55,6 @@ An innovative project that interprets sign language using computer vision and ma
 
 
 ### 2. Stock Price Prediction
-A web application built using Streamlit that predicts stock prices based on historical data using machine learning models. It provides interactive visualizations and user-friendly interfaces for predicting future stock trends.
 
 **Tech Stack:**
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
@@ -66,7 +64,6 @@ A web application built using Streamlit that predicts stock prices based on hist
 
 
 ### 3. J.A.R.V.I.S (Just A Rather Very Intelligent System)
-A Python-based virtual assistant capable of performing tasks through voice commands. It utilizes libraries for speech recognition, text-to-speech conversion, and automates tasks like WhatsApp messaging and YouTube control.
 
 **Tech Stack:**
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60"/>
