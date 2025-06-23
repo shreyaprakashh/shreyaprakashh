@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Shreya Prakash
 
-### 🚀 Final Year Computer Science Student | 2025 Passout
+### 🚀 CSE AIML Graduate | 2025 Passout
 
-Welcome to my GitHub! I'm a final year CSE AIML student with a strong interest in data analysis and Machine Learning. I have a solid foundation in front-end development and love creating user-friendly interfaces that enhance the overall user experience.
+Welcome to my GitHub! I'm a CSE AIML graduate with a strong interest in data analysis and Machine Learning. I have a solid foundation in front-end development and love creating user-friendly interfaces that enhance the overall user experience.
 
 ---
 
