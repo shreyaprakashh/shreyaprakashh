@@ -55,9 +55,9 @@ Welcome to my GitHub! I'm a CSE AIML graduate with a strong interest in data ana
 
 ## 🌱 What I’m Currently Learning
 
-- Advanced Machine Learning Algorithms
-- Full-Stack Development (React, Node.js)
-- Cloud Computing (AWS, Azure)
+- Machine Learning Algorithms
+- Data Analysis
+- Power BI
 
 ---
 
